@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Lora&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta - San Francisco de Asís</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="layout">
+    <div class="imagen">
+        <img src="Fondo 1.png" alt="Repartidor San Francisco de Asís">
+    </div>
+
+    <div class="carta">
+        <header>
+            <h1>San Francisco de Asís</h1>
+            <p class="subtitulo">Fábrica de Sándguches de Miga</p>
+        </header>
+
+        <section class="menu">
+            <h2>🥪 Nuestra Carta</h2>
+
+            <div class="item">
+                <strong>48 UNID.</strong>
+                <span>TRIPLE JAMÓN Y QUESO</span>
+                <strong>$20.000</strong>
+            </div>
+
+            <div class="item">
+                <strong>48 UNID.</strong>
+                <span>TRIPLE SURTIDOS</span>
+                <strong>$20.000</strong>
+            </div>
+
+            <div class="item">
+                <strong>24 UNID.</strong>
+                <span>TRIPLES JAMÓN Y QUESO</span>
+                <strong>$15.000</strong>
+            </div>
+
+            <div class="item">
+                <strong>24 UNID.</strong>
+                <span>TRIPLES SURTIDOS</span>
+                <strong>$15.000</strong>
+            </div>
+        </section>
+
+        <footer>
+            <p>📍 Av. Calchaquí 3065, Zeballos</p>
+            <p>📞 WhatsApp: 11-6179-2253</p>
+            <p>📞 WhatsApp: 11-5025-9410</p>
+
+            <div class="redes">
+                <a href="https://www.instagram.com/fabricasanfranciscodeasis/"> Instagram
+
+                </a>
+                 |
+                <a href="https://www.facebook.com/FabricaSanFranciscoDeAsis?ref=bookmarks"> Facebook
+
+                </a>
+            </div>
+        </footer>
+    </div>
+  <div class="imagen">
+        <img src="Fondo 1.png" alt="Repartidor San Francisco de Asís">
+    </div>
+
+</body>
+</div>
+</body>
+</html>
